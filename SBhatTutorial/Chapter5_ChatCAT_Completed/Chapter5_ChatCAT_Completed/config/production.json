@@ -1,0 +1,10 @@
+{
+	"dbURL":"<your-mongoLab-connection-string>",
+	"sessionSecret":"<your-session-secret>",
+	"fb":{
+		"appID":"<your-facebook-appID>",
+		"appSecret":"<your-facebook-appSecret>",
+		"callbackURL":"http://<your-heroku-appURL>/auth/facebook/callback"
+	},
+	"host":"http://<your-heroku-appURL>"
+}

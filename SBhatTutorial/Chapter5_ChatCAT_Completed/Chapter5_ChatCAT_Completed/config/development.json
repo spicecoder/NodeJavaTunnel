@@ -1,0 +1,10 @@
+{
+	"dbURL":"mongodb://photogrid:myphotogrid@ds047107.mongolab.com:47107/photogrid",
+	"sessionSecret":"ABCDEF",
+	"fb":{
+		"appID":"1557321887827795",
+		"appSecret":"c2a7744d472a9f5b6deb4f4b456d4296",
+		"callbackURL":"http://localhost:3000/auth/facebook/callback"
+	},
+	"host":"http://localhost:3000"
+}
