@@ -1,0 +1,28 @@
+
+My vision :Bringing A Change of Pace in Mobile development.
+Current drawback : no standarised way to back end data - patch approach by extending the HHTP for web technology. e.g if you are trying to extend a jsp page to  send data to a mobile apps, we are doing several unnecessary tasks like servlet instantiation ,webtier resurce allocation, that weere useful for a web page that pssibly have different customer focus, no way to update customer data ; no standarised way of maintaining single point of truth because of synchronisation issue with web page. service pooling absent.
+Mobile needs much faster scaling , 
+Back to Basic:
+Every industry needs to go to back to basic principle to take a fresh start that leads to bigger innovation and bigger giving back to society.
+For a long time in this industry and following are back to basic principles that make break throughs in software development:
+1. The Cpu is getting faster. Associated processes getting their dedicated CPUs.
+2. Memory is getting cheaper 
+3. comminication is standarised ,both at a protocol level and content level.
+4. communication is getting faster.
+The java script has emmerged as a language of the devices. Machine instruction speed is many times faster than the average sppeed of interaction with human.genraly machine speed has to slow down the rate of change when we wnt to show a movement that lollipo's material desig physics.
+Purpose of this session is to show there is way to address the following:
+1. asynchronous request[mobile gets immediate feedback -no expensive thread locking] 2.  websocket approach to synchronise non native and native display
+3. complexity management through single columnn db of content and UCL  and through java verb invocation.
+General users are human : not process automation.
+C smalltalk ,java ..net  are giving in to java script that helps in nthe three basic things:
+Pointing ,Grouping,Referencing.
+NodeJs asynchronous , event driven 	+ current technology lacks in complexity management.
+Our first demo is about nodejs call back to use the dot request and response XML through  http post handling .
+node has a construct  of calling a function with call back in this syntax: function (fn,callback(err,result);
+I shall take json handling as a relatively compalex task and I shall leave that with java. Which we make a http client call to a java verb server.
+For complexity management take these two approaches , bring mongodb [nosql] single column db. because any access or insert or update is done through a single line of words . {called uniform context language]
+e.g passengerno2.delhi.firstclass.nightcall passenger2.delhi.november11.. 
+
+
+
+

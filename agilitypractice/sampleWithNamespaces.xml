@@ -1,0 +1,6 @@
+<d:student xmlns:d='http://www.develop.com/student'>
+  <d:id>3235329</d:id>
+  <d:name>Jeff Smith</d:name>
+  <d:language>JavaScript</d:language>
+  <d:rating>9.5</d:rating>
+</d:student>
