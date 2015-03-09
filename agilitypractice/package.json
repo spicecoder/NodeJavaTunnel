@@ -1,8 +1,0 @@
-{
-  "//" : "A nice package" ,
-  "name": "random-server",
-  "version": "0.0.1",
-  "dependencies": {
-    "express": "2.4.6"
-  }
-}
